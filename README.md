@@ -1,7 +1,5 @@
 # README
 
-Toy app for Chapter 2 of the Ruby on Rails tutorial
-
 This is the toy application for Chapter 2 of the
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
